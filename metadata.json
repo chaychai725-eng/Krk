@@ -1,0 +1,6 @@
+{
+  "name": "HCH Digital Pro",
+  "description": "Cambodia's premier AI video translator, voice cloning, and movie story recap platform for creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
